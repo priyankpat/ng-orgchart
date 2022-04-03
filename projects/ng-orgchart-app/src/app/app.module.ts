@@ -22,8 +22,8 @@ import { EditChartComponent } from './edit-chart/edit-chart.component';
     EditChartComponent
   ],
   imports: [
-    BrowserModule,
-    BrowserAnimationsModule,
+//     BrowserModule,
+//     BrowserAnimationsModule,
     FormsModule,
     ReactiveFormsModule,
     AppRoutingModule,
